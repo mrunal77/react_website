@@ -13,7 +13,7 @@ function App() {
             <img className="rounded-circle" src={bannerImage} alt="Mrunal" />
           </span>
           <h1>Mrunal Meshram</h1>
-          <h4>A Web Developer.</h4>
+          <h4>A Web Developer</h4>
           <div className="list-inline-item awsome">
             <a href="https://facebook.com/dragon7794" target="_blank">
               <i class="fa fa-facebook-square" aria-hidden="true"></i>
