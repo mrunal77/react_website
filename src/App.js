@@ -4,6 +4,7 @@ import bannerImage from './Assets/Images/bannerImage.jpg'
 import './social_icons/social'
 import Social from './social_icons/social';
 import Tada from 'react-reveal/Tada';
+import Typer from './Typer/Typer'
 
 class App extends Component {
   render() {
@@ -14,7 +15,7 @@ class App extends Component {
             <card className="card">
               <img className="rounded-circle" src={bannerImage} alt="Mrunal" />
               <h1>Mrunal Meshram</h1>
-              <h4>A Web Developer</h4>
+              <h4><Typer dataText={["Hi I am Mrunal!", "This is my website", "I am a web developer."]} /></h4>
               <div className="awsome">
                 <Social />
               </div>
