@@ -98,9 +98,13 @@ i:hover {
   background: rgba(121, 38, 216, 0.397);
   padding: 30px;
   align-items: center;
-  height: fit-content;
+  height: initial;
 }
 
 a {
   color: white;
+}
+
+h4{
+  height: 32px;
 }

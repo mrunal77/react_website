@@ -15,7 +15,9 @@ class App extends Component {
             <card className="card">
               <img className="rounded-circle" src={bannerImage} alt="Mrunal" />
               <h1>Mrunal Meshram</h1>
-              <h4><Typer dataText={["Hi I am Mrunal!", "This is my website", "I am a web developer."]} /></h4>
+              <h4>
+                <Typer dataText={["Hi I am Mrunal!", "This is my website", "I am a web developer."]} />
+              </h4>
               <div className="awsome">
                 <Social />
               </div>
