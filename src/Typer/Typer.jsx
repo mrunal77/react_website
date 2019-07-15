@@ -13,7 +13,7 @@ export default class Typer extends React.Component {
             text: '',
             isDeleting: false,
             loopNum: 0,
-            typingSpeed: 150
+            typingSpeed: 130
         }
     }
 
