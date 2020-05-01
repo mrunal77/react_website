@@ -1,6 +1,7 @@
 # Profile Card Website
 
-Website: http://mrunal.epizy.com
+Website: http://mrunal.epizy.com<br />
+https://mrunal77.github.io/react_website/
 <br />
 In the project directory, you can run:
 
