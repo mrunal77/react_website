@@ -1,7 +1,7 @@
 {
   "name": "myreactapp",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://gitname.github.io/react_website",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
