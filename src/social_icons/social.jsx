@@ -9,16 +9,20 @@ export default class Social extends React.Component {
                     <i class="fa fa-facebook-square" aria-hidden="true"></i>
                 </a>
                 &nbsp;
-            <a href="https://twitter.com/mrunal7794" target="_blank">
+                <a href="https://twitter.com/mrunal7794" target="_blank">
                     <i class="fa fa-twitter-square" aria-hidden="true"></i>
                 </a>
                 &nbsp;
-            <a href="https://linkedin.com/in/mrunal7794" target="_blank">
+                <a href="https://linkedin.com/in/mrunal7794" target="_blank">
                     <i class="fa fa-linkedin-square" aria-hidden="true"></i>
                 </a>
                 &nbsp;
-            <a href="https://github.com/mrunal77" target="_blank">
+                <a href="https://github.com/mrunal77" target="_blank">
                     <i class="fa fa-github-square" aria-hidden="true"></i>
+                </a>
+                &nbsp;
+                <a href="https://www.youtube.com/channel/UCIx_aqCVuGRZ5Wu-I4UY36Q" target="_blank">
+                    <i class="fa fa-youtube-square" aria-hidden="true"></i>
                 </a>
 
             </div>
