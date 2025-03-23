@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Typer.css';
 export default class Typer extends React.Component {
 
     static defaultProps = {
